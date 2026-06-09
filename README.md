@@ -67,12 +67,15 @@ I'm an AI engineer focused on the layer most demos skip — taking models from "
 
 <div align="center">
 
+<!-- NOTE: The public github-readme-stats.vercel.app instance is paused/unmaintained as of 2026.
+     Deploy your own instance (free, ~5 min) and replace "github-readme-stats.vercel.app"
+     below with your own domain (e.g. your-name-grs.vercel.app) so these always render. -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afrxz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Syed's GitHub stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrxz&layout=compact&theme=tokyonight&langs_count=8" alt="Top languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=afrxz&theme=tokyonight" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=afrxz&theme=tokyonight" alt="GitHub streak" />
 
 <br/>
 
