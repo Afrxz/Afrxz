@@ -63,23 +63,17 @@ I'm an AI engineer focused on the layer most demos skip — taking models from "
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub
 
 <div align="center">
 
-<!-- NOTE: The public github-readme-stats.vercel.app instance is paused/unmaintained as of 2026.
-     Deploy your own instance (free, ~5 min) and replace "github-readme-stats.vercel.app"
-     below with your own domain (e.g. your-name-grs.vercel.app) so these always render. -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=afrxz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Syed's GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrxz&layout=compact&theme=tokyonight&langs_count=8" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=afrxz&theme=tokyonight" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=afrxz&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophies" />
+<a href="https://github.com/afrxz?tab=followers">
+  <img src="https://img.shields.io/github/followers/afrxz?style=for-the-badge&logo=github&label=Followers&color=0e75b6&labelColor=181717" alt="followers" />
+</a>
+<a href="https://github.com/afrxz">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&labelColor=181717&color=0e75b6&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/afrxz" alt="public repos" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=afrxz&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
 </div>
 
@@ -96,4 +90,12 @@ I'm an AI engineer focused on the layer most demos skip — taking models from "
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" alt="" width="100%" />
+  <br/>
+  <i>"The model is the easy part."</i>
 </div>
